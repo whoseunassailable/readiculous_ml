@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "data",
+			"path": "../../../../data"
+		},
+		{
+			"name": "readiculous",
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
